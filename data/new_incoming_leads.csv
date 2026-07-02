@@ -1,0 +1,201 @@
+Lead_ID,Submission_Timestamp,Name,Phone,Preferred_Callback_Time,Program_Interested,Highest_Qualification,Current_Status,Experience_Years,City,Lead_Source,Campaign,Device,Graduation_Year,Expected_Salary_LPA,Message,Assigned_Counsellor
+N00001,2026-05-28 11:08,Ananya Jain,8595226943,Weekend,Data Science,B.Tech,Working Professional,4,Delhi,Webinar,LI_June,Desktop,2022,6.0,Share syllabus.,Sneha
+N00002,2026-02-03 14:01,Yash Saxena,7166280780,Weekend,Data Analytics,MCA,Job Seeker,0,Noida,Webinar,LI_June,Mobile,2023,6.0,Share syllabus.,Aditi
+N00003,2026-06-19 17:40,Riya Verma,7946500677,Evening,Machine Learning,Working Professional,Working Professional,7,Ahmedabad,Referral,Organic,Desktop,2021,6.0,Need certification details.,Sneha
+N00004,2026-03-11 20:12,Sneha Sharma,9759159882,Afternoon,Business Analytics,B.Com,Working Professional,0,Delhi,Instagram,LI_June,Desktop,2017,6.0,Need mentorship and projects. Please call after 7 PM.,Rohan
+N00005,2026-04-13 16:18,Nikita Sharma,7166026078,Afternoon,Data Analytics,B.Sc,Student,2,Delhi,Google Search,IG_Reel,Desktop,2021,10.0,Need mentorship and projects. Please call after 7 PM.,Aditi
+N00006,2026-03-11 10:54,Ananya Mehta,7110151802,Morning,Business Analytics,MBA,Student,0,Indore,LinkedIn,Organic,Desktop,2019,6.0,I want to switch into Data Science immediately.,Sneha
+N00007,2026-02-05 17:58,Kriti Jain,7303422726,Evening,Generative AI,B.Com,Job Seeker,7,Pune,Instagram,GoogleAds,Mobile,2016,12.0,I want to switch into Data Science immediately.,Aditi
+N00008,2026-01-23 11:48,Rahul Verma,8143109845,After 7 PM,Business Analytics,B.Tech,Job Seeker,5,Pune,Website,Referral,Mobile,2025,10.0,Need certification details.,Aditi
+N00009,2026-03-06 21:07,Ananya Patel,9255349551,Evening,Data Analytics,BCA,Job Seeker,0,Pune,Webinar,IG_Reel,Mobile,2023,12.0,I want to switch into Data Science immediately.,Aditi
+N00010,2026-04-18 21:12,Sanya Saxena,9541462072,Weekend,Data Analytics,BCA,Student,10,Bengaluru,Google Search,IG_Reel,Desktop,2018,4.0,need certification details.,Rohan
+N00011,2026-06-15 17:32,Kriti Sharma,8591889210,After 7 PM,Data Science,B.Tech,Student,5,Ahmedabad,Referral,GoogleAds,Desktop,2019,5.0,Need fee details.,Priya
+N00012,2026-03-20 15:11,Karan Sharma,9626099382,After 7 PM,Machine Learning,Working Professional,Working Professional,10,Noida,Instagram,Organic,Desktop,2016,,Exploring options.,Kunal
+N00013,2026-01-09 22:37,Meera Jain,8952551592,After 7 PM,Machine Learning,B.Com,Student,1,Lucknow,Referral,Webinar_June,Mobile,2022,4.0,,Kunal
+N00014,2026-03-08 19:57,Rohan Dwivedi,7387707506,Morning,Machine Learning,B.Tech,Student,3,Bengaluru,LinkedIn,LI_June,Mobile,2019,3.0,Need fee details.,Priya
+N00015,2026-03-16 18:46,Sneha Saxena,9200200493,Evening,Data Science,BCA,Job Seeker,2,Indore,LinkedIn,Organic,Mobile,2024,5.0,Share syllabus.,Sneha
+N00016,2026-05-10 11:17,Vikas Mehta,7376059352,Morning,Business Analytics,MCA,Job Seeker,3,Ahmedabad,Website,Webinar_June,Mobile,2015,10.0,Need certification details.,Rohan
+N00017,2026-01-26 18:55,Mohit Gupta,7130851606,Morning,Data Science,MBA,Student,3,Noida,Google Search,Organic,Desktop,2015,4.0,Need fee details.,Sneha
+N00018,2026-04-06 16:36,Karan Jain,8768665289,Morning,Machine Learning,Working Professional,Student,3,Pune,Webinar,Webinar_June,Mobile,2017,12.0,I want to switch into Data Science immediately.,Rohan
+N00019,2026-03-30 09:48,Ananya Kumar,7552772924,Evening,Machine Learning,MCA,Working Professional,2,Noida,LinkedIn,IG_Reel,Desktop,2023,,Brochure only.,Rohan
+N00020,2026-05-11 13:16,Nikita Patel,7934143218,After 7 PM,Machine Learning,MCA,Working Professional,0,Delhi,Webinar,IG_Reel,Mobile,2018,6.0,Need mentorship and projects. Please call after 7 PM.,Priya
+N00021,2026-03-16 16:04,Meera Verma,7225662938,After 7 PM,Data Analytics,MCA,Job Seeker,2,Pune,Instagram,Organic,Mobile,2024,4.0,Need fee details.,Priya
+N00022,2026-01-14 11:15,Nikita Kumar,8214159864,Weekend,Machine Learning,M.Tech,Job Seeker,5,Delhi,Website,IG_Reel,Desktop,2019,5.0,Please explain curriculum. 🙂,Rohan
+N00023,2026-02-19 18:30,Kriti Sharma,9596671064,Afternoon,Generative AI,B.Com,Working Professional,0,Hyderabad,Google Search,Webinar_June,Mobile,2016,12.0,Testing form.,Aditi
+N00024,2026-03-07 11:00,Ananya Verma,9912538774,After 7 PM,Machine Learning,B.Sc,Student,5,Indore,LinkedIn,IG_Reel,Desktop,2019,12.0,Need fee details.,Kunal
+N00025,2026-05-24 17:30,Rahul Patel,7631027380,Afternoon,Data Science,MCA,Student,0,Kolkata,Website,GoogleAds,Mobile,2016,5.0,Need mentorship and projects. Please call after 7 PM.,Rohan
+N00026,2026-06-22 14:29,Sneha Jain,9137955514,Weekend,Data Science,BCA,Student,1,Hyderabad,Instagram,LI_June,Mobile,2016,5.0,,Priya
+N00027,2026-03-15 09:20,Priya Dwivedi,9424591525,Evening,Data Analytics,MCA,Student,7,Indore,Google Search,LI_June,Desktop,2016,,Will check later.,Kunal
+N00028,2026-05-30 09:41,Karan Verma,7174771213,After 7 PM,Business Analytics,B.Com,Working Professional,5,Lucknow,Webinar,IG_Reel,Mobile,2016,8.0,I want to switch into Data Science immediately.,Rohan
+N00029,2026-06-23 12:23,Sanya Kumar,8322828496,Morning,Data Analytics,B.Sc,Job Seeker,2,Hyderabad,Webinar,Webinar_June,Desktop,2015,3.0,Exploring options.,Kunal
+N00030,2026-02-13 19:48,Aditya Sharma,8170969195,Afternoon,Data Analytics,MBA,Working Professional,5,Hyderabad,Instagram,LI_June,Mobile,2015,10.0,Exploring options.,Kunal
+N00031,2026-06-08 18:16,Ritika Kumar,7168094118,Evening,Data Science,MBA,Working Professional,0,Ahmedabad,Instagram,Organic,Desktop,2015,8.0,Attended webinar. Ready to enroll if EMI available.,Aditi
+N00032,2026-06-14 21:24,Rohan Saxena,8239345476,Weekend,Machine Learning,MBA,Working Professional,5,Kolkata,LinkedIn,Webinar_June,Desktop,2023,4.0,attended webinar. ready to enroll if emi available.,Sneha
+N00033,2026-04-26 20:16,Dev Saxena,8596556278,Weekend,Business Analytics,BCA,Job Seeker,7,Noida,LinkedIn,Organic,Mobile,2015,10.0,Will check later.,Aditi
+N00034,2026-03-21 16:46,Kriti Kumar,7806073143,After 7 PM,Generative AI,B.Sc,Job Seeker,3,Hyderabad,Webinar,Webinar_June,Mobile,2020,10.0,Please explain curriculum.,Priya
+N00035,2026-03-22 11:47,Arjun Sharma,8931048015,Weekend,Data Science,B.Tech,Student,1,Indore,Google Search,IG_Reel,Mobile,2020,3.0,Brochure only.,Priya
+N00036,2026-04-05 18:59,Sanya Joshi,9868085769,Weekend,Data Analytics,M.Tech,Working Professional,0,Indore,LinkedIn,Referral,Mobile,2021,10.0,Need mentorship and projects. Please call after 7 PM.,Sneha
+N00037,2026-02-01 09:01,Priya Kumar,8659538987,Afternoon,Machine Learning,M.Tech,Working Professional,1,Pune,Webinar,LI_June,Desktop,2019,12.0,Attended webinar. Ready to enroll if EMI available.,Aditi
+N00038,2026-01-19 21:23,Rahul Dwivedi,8609654807,Weekend,Machine Learning,BCA,Job Seeker,4,Bengaluru,Google Search,Webinar_June,Desktop,2024,4.0,exploring options.,Sneha
+N00039,2026-02-18 11:51,Ritika Saxena,9636746579,Afternoon,Data Science,B.Com,Working Professional,1,Noida,Referral,Organic,Desktop,2015,6.0,I want to switch into Data Science immediately.,Rohan
+N00040,2026-06-20 10:28,Karan Joshi,8341092661,Evening,Data Analytics,B.Com,Job Seeker,2,Lucknow,Referral,IG_Reel,Mobile,2026,6.0,Need mentorship and projects. Please call after 7 PM.,Sneha
+N00041,2026-05-22 22:39,Yash Patel,9518170882,Morning,Business Analytics,B.Com,Working Professional,3,LUCKNOW,LinkedIn,Webinar_June,Mobile,2022,6.0,Need certification details.,Kunal
+N00042,2026-03-20 14:32,Ananya Jain,7289657386,Weekend,Business Analytics,MBA,Job Seeker,2,Jaipur,Webinar,LI_June,Mobile,2016,4.0,I want to switch into Data Science immediately. 🙂,Rohan
+N00043,2026-03-09 21:03,Yash Joshi,34161241,Evening,Data Science,MBA,Student,1,Jaipur,Instagram,LI_June,Mobile,2020,10.0,Exploring options. 🙂,Rohan
+N00044,2026-03-03 21:51,Ananya Mehta,7553576502,Weekend,Generative AI,B.Sc,Job Seeker,0,Jaipur,Webinar,Webinar_June,Desktop,2017,8.0,No specific query. 🙂,Sneha
+N00045,2026-04-24 11:51,Ishita Dwivedi,7303575641,Morning,Data Science,B.Com,Student,1,Jaipur,Google Search,Webinar_June,Desktop,2018,12.0,Need certification details.,Kunal
+N00046,2026-04-15 22:54,Vikas Kumar,7909873630,Evening,Data Analytics,B.Com,Job Seeker,5,Delhi,Referral,GoogleAds,Desktop,2024,,I want to switch into Data Science immediately.,Kunal
+N00047,2026-06-03 19:27,Pooja Jain,8549461110,Evening,Data Analytics,MBA,Job Seeker,3,Kolkata,LinkedIn,Webinar_June,Desktop,2026,8.0,Testing form.,Rohan
+N00048,2026-06-03 13:20,Rahul Mehta,8503753675,Afternoon,Business Analytics,Working Professional,Working Professional,4,Delhi,Webinar,LI_June,Mobile,2025,12.0,need fee details.,Aditi
+N00049,2026-02-18 13:43,Karan Joshi,7976656396,Weekend,Business Analytics,MCA,Job Seeker,10,Lucknow,Instagram,Webinar_June,Mobile,2021,4.0,I already know Python and SQL. Looking for job transition.,Sneha
+N00050,2026-04-04 14:50,Vikas Dwivedi,8495640191,Afternoon,Business Analytics,MCA,Student,0,Pune,Google Search,LI_June,Desktop,2024,10.0,Share syllabus.,Kunal
+N00051,2026-01-05 14:47,Ritika Gupta,8486468525,Afternoon,Data Analytics,Working Professional,Job Seeker,0,Jaipur,LinkedIn,Webinar_June,Desktop,2022,3.0,i want to switch into data science immediately. 🙂,Rohan
+N00052,2026-04-20 09:27,Aarav Verma,9746905929,Morning,Data Science,M.Tech,Job Seeker,7,Indore,Referral,IG_Reel,Desktop,2015,8.0,No specific query.,Aditi
+N00053,2026-03-11 20:20,Priya Saxena,7799586764,Weekend,Data Analytics,M.Tech,Job Seeker,2,Noida,LinkedIn,Organic,Desktop,2022,8.0,Exploring options.,Aditi
+N00054,2026-03-29 17:48,Sneha Mehta,7246560662,After 7 PM,Generative AI,BCA,Working Professional,7,Pune,LinkedIn,Organic,Desktop,2020,12.0,Exploring options.,Kunal
+N00055,2026-02-19 12:16,Pooja Mehta,7698770270,Evening,Data Analytics,M.Tech,Student,0,Pune,Instagram,Organic,Mobile,2026,4.0,Attended webinar. Ready to enroll if EMI available.,Sneha
+N00056,2026-02-21 13:34,Nikita Joshi,9757698252,After 7 PM,Data Analytics,Working Professional,Working Professional,2,Indore,Instagram,GoogleAds,Mobile,2020,10.0,I want to switch into Data Science immediately.,Kunal
+N00057,2026-03-26 20:52,Rohan Jain,9673987656,Morning,Business Analytics,Working Professional,Working Professional,0,Lucknow,Webinar,IG_Reel,Desktop,2016,8.0,Share syllabus.,Sneha
+N00058,2026-02-12 08:38,Yash Gupta,9171348567,Evening,Generative AI,,Job Seeker,2,Delhi,Instagram,Referral,Desktop,2022,5.0,I want to switch into Data Science immediately.,Aditi
+N00059,2026-06-21 22:34,Sanya Gupta,8336210280,Morning,Data Analytics,MBA,Working Professional,0,Jaipur,Instagram,GoogleAds,Desktop,2026,10.0,Attended webinar. Ready to enroll if EMI available. 🙂,Priya
+N00060,2026-03-29 11:28,Aarav Sharma,7755298093,Morning,Data Analytics,M.Tech,Student,7,Kolkata,Google Search,GoogleAds,Mobile,2018,,I want to switch into Data Science immediately.,Aditi
+N00061,2026-04-25 18:14,Priya Dwivedi,8203459678,After 7 PM,Machine Learning,BCA,Job Seeker,4,LUCKNOW,Website,GoogleAds,Mobile,2021,4.0,Please explain curriculum.,Aditi
+N00062,2026-03-01 11:24,Mohit Gupta,7316204643,Afternoon,Machine Learning,MBA,Working Professional,5,Delhi,Instagram,Referral,Desktop,2020,,Attended webinar. Ready to enroll if EMI available.,Sneha
+N00063,2026-01-11 10:24,Ishita Saxena,9359560587,Afternoon,Business Analytics,B.Com,Student,0,Ahmedabad,Website,LI_June,Mobile,2025,8.0,I want to switch into Data Science immediately.,Priya
+N00064,2026-01-26 08:03,Harsh Dwivedi,9388277633,After 7 PM,Business Analytics,B.Com,Working Professional,2,Hyderabad,Webinar,Organic,Mobile,2026,12.0,Share syllabus.,Aditi
+N00065,2026-03-16 16:43,Ishita Joshi,9354353134,Evening,Data Science,,Job Seeker,7,Delhi,Webinar,Webinar_June,Mobile,2017,3.0,I want to switch into Data Science immediately.,Sneha
+N00066,2026-05-07 17:33,Ananya Saxena,7567835086,Afternoon,Data Science,MBA,Student,0,Delhi,Website,LI_June,Mobile,2015,,Exploring options. 🙂,Kunal
+N00067,2026-02-04 16:25,Sneha Mehta,8481773102,Weekend,Generative AI,B.Com,Job Seeker,0,Hyderabad,Webinar,IG_Reel,Desktop,2016,12.0,No specific query.,Rohan
+N00068,2026-04-06 15:41,Neha Verma,9255539367,Weekend,Generative AI,MBA,Student,1,Jaipur,LinkedIn,Webinar_June,Mobile,2025,4.0,Exploring options.,Kunal
+N00069,2026-04-04 10:34,Nikita Dwivedi,8227177825,Afternoon,Machine Learning,M.Tech,Working Professional,2,Delhi,Webinar,IG_Reel,Mobile,2025,4.0,Need certification details.,Priya
+N00070,2026-06-28 12:13,Kriti Singh,8355526151,Weekend,Data Science,MCA,Working Professional,0,Noida,Google Search,Referral,Mobile,2015,3.0,Need mentorship and projects. Please call after 7 PM.,Rohan
+N00071,2026-03-03 20:20,Yash Singh,7679738704,Weekend,Data Science,B.Sc,Working Professional,7,Indore,Referral,Referral,Mobile,2017,3.0,testing form.,Rohan
+N00072,2026-06-30 11:22,Kriti Saxena,9270573054,After 7 PM,Data Analytics,Working Professional,Job Seeker,2,Jaipur,Website,Organic,Desktop,2017,,I want to switch into Data Science immediately.,Priya
+N00073,2026-05-10 17:47,Ishita Mehta,8577655147,Morning,Business Analytics,B.Tech,Job Seeker,0,Delhi,Google Search,GoogleAds,Mobile,2016,5.0,Share syllabus.,Sneha
+N00074,2026-02-02 17:18,Sanya Saxena,7601532515,After 7 PM,Generative AI,MCA,Job Seeker,0,Lucknow,Webinar,GoogleAds,Mobile,2018,10.0,Please explain curriculum.,Sneha
+N00075,2026-06-06 13:41,Vikas Dwivedi,7817917696,After 7 PM,Data Analytics,MBA,Student,0,Kolkata,Google Search,IG_Reel,Desktop,2021,6.0,Testing form.,Aditi
+N00076,2026-04-21 12:58,Pooja Dwivedi,7271056090,After 7 PM,Data Analytics,MCA,Job Seeker,2,Jaipur,Google Search,IG_Reel,Desktop,2021,6.0,Brochure only. 🙂,Aditi
+N00077,2026-05-27 11:18,Rahul Jain,8165162096,Morning,Data Analytics,MBA,Student,2,Delhi,Instagram,Referral,Mobile,2022,,Attended webinar. Ready to enroll if EMI available.,Rohan
+N00078,2026-02-12 14:50,Rohan Jain,9303511701,Afternoon,Machine Learning,B.Sc,Job Seeker,0,Jaipur,Google Search,Referral,Mobile,2020,6.0,Need fee details.,Aditi
+N00079,2026-03-23 14:20,Ritika Dwivedi,9822590933,After 7 PM,Data Analytics,BCA,Job Seeker,10,Delhi,Webinar,Organic,Desktop,2019,10.0,Need mentorship and projects. Please call after 7 PM.,Sneha
+N00080,2026-05-18 18:00,Vikas Kumar,9436935420,After 7 PM,Data Analytics,MBA,Job Seeker,0,Indore,Instagram,Webinar_June,Mobile,2020,5.0,I already know Python and SQL. Looking for job transition.,Aditi
+N00081,2026-04-07 10:59,Ritika Verma,7694147435,Weekend,Data Science,BCA,Working Professional,3,Hyderabad,Referral,IG_Reel,Mobile,2019,5.0,Need certification details.,Aditi
+N00082,2026-01-29 10:23,Karan Joshi,9470601363,After 7 PM,Generative AI,B.Sc,Student,7,Jaipur,LinkedIn,Referral,Mobile,2016,12.0,,Kunal
+N00083,2026-04-07 09:57,Rahul Verma,7212030430,Evening,Generative AI,B.Tech,Job Seeker,1,Delhi,LinkedIn,LI_June,Mobile,2018,12.0,Will check later.,Kunal
+N00084,2026-02-02 12:14,Nikita Kumar,7702022990,Evening,Machine Learning,B.Sc,Job Seeker,0,Indore,LinkedIn,LI_June,Desktop,2017,3.0,Need fee details.,Sneha
+N00085,2026-05-28 19:07,Neha Sharma,9532816268,Weekend,Generative AI,,Job Seeker,7,Lucknow,LinkedIn,Referral,Mobile,2016,8.0,I already know Python and SQL. Looking for job transition.,Kunal
+N00086,2026-06-28 15:58,Aarav Gupta,8767725051,Evening,Data Analytics,M.Tech,Student,0,Jaipur,Instagram,GoogleAds,Desktop,2024,4.0,Share syllabus.,Sneha
+N00087,2026-03-29 12:26,Sneha Gupta,7530614555,Evening,Machine Learning,,Student,1,Jaipur,Referral,GoogleAds,Mobile,2021,4.0,Exploring options.,Priya
+N00088,2026-02-09 14:26,Sanya Gupta,8972739709,Evening,Generative AI,B.Tech,Student,0,Indore,Referral,Organic,Mobile,2019,,Exploring options.,Sneha
+N00089,2026-03-22 17:34,Arjun Singh,8794799990,Afternoon,Generative AI,BCA,Working Professional,5,JAIPUR,Webinar,LI_June,Mobile,2026,3.0,Exploring options.,Sneha
+N00090,2026-01-09 09:09,Pooja Jain,7119362250,Afternoon,Generative AI,Working Professional,Job Seeker,4,Jaipur,Google Search,Referral,Mobile,2021,5.0,Will check later.,Kunal
+N00091,2026-06-06 14:03,Arjun Verma,8789010200,After 7 PM,Machine Learning,B.Tech,Working Professional,10,Noida,Website,IG_Reel,Mobile,2023,5.0,Please explain curriculum.,Kunal
+N00092,2026-06-03 19:34,Kriti Gupta,7291671523,Evening,Business Analytics,MCA,Student,4,Noida,LinkedIn,GoogleAds,Mobile,2017,8.0,Need certification details.,Priya
+N00093,2026-06-03 17:32,Ananya Verma,8349533014,Afternoon,Data Analytics,B.Tech,Student,2,Ahmedabad,Google Search,GoogleAds,Mobile,2021,4.0,Need mentorship and projects. Please call after 7 PM.,Priya
+N00094,2026-04-23 18:08,Kriti Patel,09766958,Weekend,Data Science,B.Tech,Working Professional,7,Jaipur,LinkedIn,Webinar_June,Desktop,2026,6.0,Share syllabus.,Kunal
+N00095,2026-04-12 13:14,Harsh Patel,8141565813,Afternoon,Machine Learning,BCA,Job Seeker,4,Kolkata,Instagram,GoogleAds,Desktop,2020,10.0,No specific query.,Priya
+N00096,2026-06-08 18:23,Riya Singh,9813602706,After 7 PM,Business Analytics,MBA,Working Professional,0,Pune,LinkedIn,Referral,Desktop,2022,12.0,i already know python and sql. looking for job transition.,Aditi
+N00097,2026-01-25 20:15,Arjun Patel,9798763611,Evening,Data Analytics,BCA,Job Seeker,7,Hyderabad,Referral,Organic,Mobile,2021,4.0,Share syllabus.,Priya
+N00098,2026-05-30 22:23,Pooja Gupta,9372345358,Evening,Machine Learning,B.Tech,Student,5,Jaipur,Instagram,IG_Reel,Mobile,2023,12.0,I already know Python and SQL. Looking for job transition.,Aditi
+N00099,2026-05-12 17:31,Yash Singh,8151650375,Afternoon,Machine Learning,MCA,Job Seeker,2,BENGALURU,Instagram,IG_Reel,Mobile,2025,,I want to switch into Data Science immediately.,Kunal
+N00100,2026-01-31 11:48,Dev Dwivedi,7126153823,Evening,Data Analytics,B.Tech,Working Professional,5,Jaipur,Webinar,IG_Reel,Mobile,2024,,Please explain curriculum.,Sneha
+N00101,2026-02-06 15:04,Yash Gupta,9280411960,After 7 PM,Generative AI,B.Sc,Job Seeker,0,Bengaluru,Referral,Webinar_June,Desktop,2020,5.0,Need mentorship and projects. Please call after 7 PM.,Sneha
+N00102,2026-04-18 18:33,Sneha Patel,8197578604,After 7 PM,Data Analytics,MCA,Working Professional,10,Pune,Google Search,Referral,Desktop,2016,12.0,Exploring options.,Rohan
+N00103,2026-05-03 22:11,Nikita Patel,9686221620,Afternoon,Machine Learning,M.Tech,Working Professional,3,Bengaluru,Google Search,LI_June,Mobile,2017,8.0,No specific query.,Aditi
+N00104,2026-05-18 20:05,Nikita Sharma,9561475069,Morning,Data Analytics,BCA,Working Professional,2,Kolkata,Webinar,LI_June,Desktop,2015,6.0,I want to switch into Data Science immediately.,Sneha
+N00105,2026-06-18 18:06,Yash Jain,9129228242,Evening,Data Analytics,B.Tech,Job Seeker,7,Jaipur,LinkedIn,IG_Reel,Mobile,2022,8.0,no specific query.,Sneha
+N00106,2026-04-03 16:47,Aarav Mehta,8225304678,Morning,Business Analytics,B.Tech,Student,2,Bengaluru,Google Search,LI_June,Desktop,2019,4.0,Need mentorship and projects. Please call after 7 PM.,Aditi
+N00107,2026-02-22 16:15,Aditya Gupta,9344249118,Afternoon,Data Analytics,B.Tech,Job Seeker,4,Delhi,Website,IG_Reel,Mobile,2022,8.0,Exploring options.,Kunal
+N00108,2026-01-29 13:51,Ritika Sharma,8277005729,Morning,Data Analytics,B.Sc,Working Professional,10,Lucknow,Instagram,Referral,Mobile,2021,10.0,Please explain curriculum.,Rohan
+N00109,2026-02-27 19:53,Riya Saxena,9204233907,After 7 PM,Machine Learning,B.Com,Student,3,Indore,LinkedIn,LI_June,Mobile,2020,10.0,I want to switch into Data Science immediately.,Aditi
+N00110,2026-01-30 11:06,Ananya Verma,7167413559,Afternoon,Business Analytics,M.Tech,Working Professional,2,Jaipur,Google Search,IG_Reel,Mobile,2024,10.0,Will check later.,Kunal
+N00111,2026-05-02 20:04,Ananya Saxena,8220335361,Morning,Data Analytics,B.Sc,Job Seeker,7,Kolkata,Website,Organic,Desktop,2025,6.0,Need fee details.,Rohan
+N00112,2026-01-22 09:00,Yash Saxena,8466186205,Weekend,Data Analytics,Working Professional,Job Seeker,2,Kolkata,LinkedIn,LI_June,Mobile,2015,8.0,Exploring options.,Aditi
+N00113,2026-03-19 10:09,Ritika Dwivedi,9915586207,Morning,Generative AI,B.Tech,Job Seeker,5,Indore,Webinar,IG_Reel,Mobile,2024,12.0,Attended webinar. Ready to enroll if EMI available.,Aditi
+N00114,2026-02-21 21:25,Mohit Dwivedi,9174397382,Evening,Business Analytics,MBA,Student,3,Indore,Website,LI_June,Desktop,2016,5.0,I want to switch into Data Science immediately.,Rohan
+N00115,2026-01-01 17:05,Harsh Saxena,9443043868,Morning,Generative AI,Working Professional,Student,7,Ahmedabad,Google Search,Organic,Mobile,2021,8.0,Need fee details.,Priya
+N00116,2026-01-10 20:38,Priya Dwivedi,7424296478,Evening,Generative AI,M.Tech,Student,10,Jaipur,Webinar,Organic,Desktop,2020,12.0,Will check later.,Sneha
+N00117,2026-05-03 20:04,Ritika Verma,95105107,Weekend,Machine Learning,B.Tech,Working Professional,4,Bengaluru,Instagram,Organic,Desktop,2015,10.0,Need certification details.,Kunal
+N00118,2026-06-04 17:52,Kriti Gupta,9518329830,Weekend,Generative AI,M.Tech,Working Professional,0,Kolkata,Webinar,Webinar_June,Mobile,2021,5.0,i already know python and sql. looking for job transition.,Priya
+N00119,2026-03-30 22:47,Pooja Singh,8731649816,After 7 PM,Data Analytics,MCA,Working Professional,10,Delhi,Webinar,GoogleAds,Desktop,2015,10.0,,Priya
+N00120,2026-03-17 15:04,Karan Singh,7470461240,Weekend,Data Analytics,B.Sc,Working Professional,0,Delhi,Referral,Organic,Desktop,2026,5.0,Will check later.,Aditi
+N00121,2026-02-23 10:38,Neha Gupta,9760494410,After 7 PM,Data Science,B.Tech,Student,7,Delhi,Instagram,LI_June,Desktop,2021,12.0,I want to switch into Data Science immediately.,Aditi
+N00122,2026-01-19 21:55,Karan Verma,8444786614,Evening,Machine Learning,B.Com,Student,0,Indore,Instagram,Webinar_June,Desktop,2024,5.0,Need mentorship and projects. Please call after 7 PM.,Sneha
+N00123,2026-04-29 13:30,Pooja Patel,8616889660,Evening,Business Analytics,MBA,Student,7,Kolkata,Google Search,Referral,Desktop,2023,10.0,I already know Python and SQL. Looking for job transition.,Kunal
+N00124,2026-06-30 15:01,Ananya Kumar,8384988523,Weekend,Generative AI,M.Tech,Working Professional,4,Delhi,Webinar,Organic,Mobile,2021,4.0,i already know python and sql. looking for job transition.,Aditi
+N00125,2026-04-24 08:21,Priya Patel,8487385732,Weekend,Business Analytics,MBA,Student,4,Noida,Google Search,Webinar_June,Desktop,2015,6.0,Exploring options.,Sneha
+N00126,2026-02-07 15:35,Yash Verma,7633937919,After 7 PM,Data Science,MBA,Working Professional,4,Kolkata,LinkedIn,Organic,Desktop,2017,5.0,I already know Python and SQL. Looking for job transition.,Sneha
+N00127,2026-04-24 20:37,Dev Mehta,9517183649,Evening,Data Analytics,BCA,Working Professional,1,Bengaluru,LinkedIn,Webinar_June,Desktop,2019,4.0,Testing form.,Aditi
+N00128,2026-03-27 15:05,Riya Sharma,8611908343,Morning,Data Science,Working Professional,Job Seeker,7,Hyderabad,LinkedIn,Referral,Desktop,2024,8.0,Need mentorship and projects. Please call after 7 PM.,Rohan
+N00129,2026-06-06 08:04,Aditya Gupta,9734982057,Afternoon,Data Analytics,B.Sc,Student,10,Pune,Instagram,Organic,Mobile,2026,8.0,Share syllabus.,Kunal
+N00130,2026-04-06 11:11,Rohan Verma,9699976370,Weekend,Generative AI,,Student,7,Lucknow,Webinar,GoogleAds,Desktop,2019,6.0,Testing form.,Aditi
+N00131,2026-01-18 13:00,Rohan Verma,7948629553,Morning,Data Science,BCA,Working Professional,5,Pune,Referral,LI_June,Desktop,2020,8.0,Brochure only.,Sneha
+N00132,2026-04-04 11:06,Vikas Joshi,9157827192,Morning,Data Science,M.Tech,Working Professional,2,Lucknow,LinkedIn,IG_Reel,Desktop,2022,3.0,Attended webinar. Ready to enroll if EMI available.,Rohan
+N00133,2026-02-08 18:18,Sanya Singh,9759967903,Evening,Business Analytics,BCA,Student,1,Jaipur,Google Search,IG_Reel,Mobile,2026,4.0,Need fee details.,Kunal
+N00134,2026-03-31 09:45,Ritika Kumar,9210064928,After 7 PM,Data Analytics,MBA,Student,4,Kolkata,Website,Referral,Mobile,2023,4.0,I want to switch into Data Science immediately.,Kunal
+N00135,2026-05-02 08:25,Meera Patel,8440997140,Evening,Machine Learning,B.Com,Job Seeker,4,Delhi,Webinar,Organic,Desktop,2022,,Attended webinar. Ready to enroll if EMI available.,Priya
+N00136,2026-03-20 10:33,Riya Singh,9811497927,Morning,Generative AI,M.Tech,Working Professional,2,Kolkata,Instagram,GoogleAds,Mobile,2025,4.0,exploring options.,Sneha
+N00137,2026-06-09 20:08,Ananya Jain,9300826128,Weekend,Machine Learning,B.Com,Job Seeker,1,Kolkata,Google Search,Organic,Desktop,2026,4.0,Attended webinar. Ready to enroll if EMI available.,Kunal
+N00138,2026-06-03 12:17,Riya Kumar,7231825636,Evening,Generative AI,B.Tech,Working Professional,4,Delhi,Website,Webinar_June,Desktop,2018,8.0,share syllabus.,Aditi
+N00139,2026-05-12 18:14,Harsh Mehta,7246256920,After 7 PM,Generative AI,BCA,Student,2,Kolkata,LinkedIn,Webinar_June,Desktop,2021,12.0,Brochure only.,Aditi
+N00140,2026-03-31 21:58,Rohan Jain,08521458,Weekend,Data Science,B.Com,Student,7,Pune,Referral,LI_June,Desktop,2025,6.0,Testing form.,Kunal
+N00141,2026-06-18 12:21,Karan Dwivedi,9871509198,Weekend,Data Analytics,B.Tech,Working Professional,4,Kolkata,Webinar,GoogleAds,Mobile,2025,8.0,Need certification details.,Rohan
+N00142,2026-03-23 08:11,Karan Mehta,9903006312,Weekend,Data Science,B.Com,Job Seeker,1,Lucknow,LinkedIn,GoogleAds,Mobile,2026,3.0,Will check later.,Priya
+N00143,2026-04-14 08:11,Aman Gupta,7275401307,Evening,Business Analytics,B.Sc,Student,3,Ahmedabad,Referral,LI_June,Mobile,2015,5.0,Please explain curriculum.,Sneha
+N00144,2026-02-18 11:09,Kriti Joshi,9631920462,Weekend,Data Science,B.Tech,Job Seeker,10,Noida,Instagram,Referral,Mobile,2018,8.0,Brochure only.,Aditi
+N00145,2026-03-24 18:46,Priya Singh,8315382892,Morning,Machine Learning,M.Tech,Working Professional,1,Delhi,Google Search,Organic,Mobile,2018,8.0,Attended webinar. Ready to enroll if EMI available.,Sneha
+N00146,2026-03-29 21:51,Yash Kumar,7522787048,Afternoon,Generative AI,MBA,Working Professional,2,Noida,Webinar,IG_Reel,Desktop,2020,12.0,exploring options.,Priya
+N00147,2026-05-12 09:01,Ritika Sharma,254943,Weekend,Machine Learning,B.Tech,Student,1,Hyderabad,Instagram,GoogleAds,Mobile,2018,10.0,brochure only.,Priya
+N00148,2026-02-08 10:55,Karan Singh,7800977139,Weekend,Data Science,BCA,Student,0,Indore,Website,Webinar_June,Mobile,2022,5.0,Exploring options.,Priya
+N00149,2026-06-26 18:28,Rohan Jain,9398264687,Weekend,Generative AI,BCA,Student,5,Lucknow,LinkedIn,Referral,Mobile,2021,10.0,I want to switch into Data Science immediately.,Rohan
+N00150,2026-02-17 11:38,Neha Sharma,8947205829,Evening,Machine Learning,MCA,Working Professional,7,Jaipur,Instagram,GoogleAds,Desktop,2016,8.0,Share syllabus.,Priya
+N00151,2026-05-20 12:35,Neha Singh,9717955856,Evening,Machine Learning,BCA,Job Seeker,10,Kolkata,Google Search,Referral,Desktop,2021,6.0,Brochure only.,Priya
+N00152,2026-01-28 19:52,Riya Kumar,7606912427,Weekend,Generative AI,BCA,Working Professional,1,Lucknow,Instagram,GoogleAds,Desktop,2023,10.0,Share syllabus.,Rohan
+N00153,2026-05-06 18:54,Rohan Jain,7932573635,Evening,Data Science,B.Com,Student,0,Indore,Instagram,Organic,Mobile,2015,6.0,Will check later.,Priya
+N00154,2026-02-09 17:21,Rahul Kumar,39988439,Morning,Business Analytics,MCA,Student,1,Noida,Instagram,Webinar_June,Mobile,2018,4.0,Please explain curriculum.,Kunal
+N00155,2026-04-22 14:36,Pooja Mehta,7608243133,Afternoon,Data Science,M.Tech,Working Professional,7,Pune,LinkedIn,Webinar_June,Desktop,2018,6.0,Need mentorship and projects. Please call after 7 PM.,Kunal
+N00156,2026-01-08 13:58,Riya Kumar,8189358171,After 7 PM,Machine Learning,B.Sc,Student,2,NOIDA,Google Search,Referral,Mobile,2024,,Need certification details.,Aditi
+N00157,2026-03-02 10:28,Mohit Jain,7141420899,After 7 PM,Machine Learning,BCA,Student,7,Pune,Instagram,Referral,Desktop,2023,,Please explain curriculum.,Rohan
+N00158,2026-01-25 17:40,Rohan Dwivedi,9470216197,After 7 PM,Business Analytics,MBA,Working Professional,10,Jaipur,Referral,LI_June,Mobile,2024,,I want to switch into Data Science immediately. 🙂,Rohan
+N00159,2026-02-13 14:39,Ritika Jain,9302370814,Evening,Machine Learning,B.Tech,Student,10,Indore,Website,Referral,Desktop,2026,3.0,Need mentorship and projects. Please call after 7 PM.,Rohan
+N00160,2026-02-26 09:23,Arjun Sharma,8978987133,Evening,Machine Learning,Working Professional,Student,0,Jaipur,Website,IG_Reel,Mobile,2024,10.0,Share syllabus.,Kunal
+N00161,2026-03-09 16:06,Harsh Dwivedi,9898694452,Weekend,Business Analytics,B.Sc,Job Seeker,0,Hyderabad,LinkedIn,GoogleAds,Mobile,2026,4.0,Brochure only.,Kunal
+N00162,2026-04-24 21:19,Sanya Dwivedi,7224196158,Morning,Business Analytics,Working Professional,Job Seeker,10,Pune,Website,Organic,Desktop,2015,12.0,Please explain curriculum.,Priya
+N00163,2026-01-03 13:51,Neha Patel,7450726399,Evening,Generative AI,B.Com,Working Professional,0,Bengaluru,Webinar,Webinar_June,Mobile,2016,6.0,Attended webinar. Ready to enroll if EMI available.,Aditi
+N00164,2026-01-28 14:08,Rohan Mehta,9839742966,After 7 PM,Business Analytics,B.Com,Job Seeker,4,Delhi,Webinar,Referral,Mobile,2026,4.0,Share syllabus.,Sneha
+N00165,2026-06-27 09:59,Mohit Patel,7435926219,Evening,Machine Learning,Working Professional,Student,2,Hyderabad,Website,Organic,Desktop,2017,10.0,Attended webinar. Ready to enroll if EMI available.,Priya
+N00166,2026-05-09 19:45,Sneha Mehta,9793622730,Evening,Machine Learning,Working Professional,Student,1,Bengaluru,Website,Organic,Desktop,2019,,Need fee details.,Priya
+N00167,2026-05-04 17:35,Vikas Jain,9349513204,Morning,Machine Learning,MBA,Job Seeker,2,Ahmedabad,LinkedIn,GoogleAds,Desktop,2018,6.0,Exploring options.,Kunal
+N00168,2026-03-29 11:46,Riya Jain,9253590631,After 7 PM,Data Analytics,B.Tech,Working Professional,0,Jaipur,Website,Referral,Mobile,2026,3.0,No specific query.,Aditi
+N00169,2026-01-11 08:42,Kriti Dwivedi,9193965626,Weekend,Data Analytics,B.Sc,Job Seeker,0,Pune,Google Search,Referral,Desktop,2023,3.0,Need mentorship and projects. Please call after 7 PM.,Sneha
+N00170,2026-04-24 17:30,Priya Verma,8302626625,Weekend,Business Analytics,B.Tech,Student,0,Pune,LinkedIn,Organic,Desktop,2024,,Exploring options.,Sneha
+N00171,2026-02-24 08:21,Priya Verma,8620968976,Evening,Data Science,B.Sc,Student,4,Pune,Instagram,IG_Reel,Mobile,2024,4.0,need fee details.,Rohan
+N00172,2026-02-17 11:03,Sanya Jain,7540249729,Morning,Generative AI,,Student,5,Hyderabad,LinkedIn,GoogleAds,Mobile,2018,12.0,Will check later.,Kunal
+N00173,2026-01-26 08:17,Aditya Mehta,8149315590,Weekend,Business Analytics,MBA,Job Seeker,4,Bengaluru,LinkedIn,Organic,Desktop,2015,3.0,Attended webinar. Ready to enroll if EMI available.,Sneha
+N00174,2026-02-18 16:58,Aditya Kumar,7425067771,Morning,Data Science,B.Sc,Student,3,Hyderabad,Website,Webinar_June,Mobile,2023,,testing form.,Aditi
+N00175,2026-04-01 17:19,Nikita Joshi,7451412184,Weekend,Data Science,M.Tech,Job Seeker,7,Delhi,Referral,GoogleAds,Mobile,2015,5.0,Please explain curriculum.,Priya
+N00176,2026-01-01 14:04,Aarav Jain,9746869689,Afternoon,Generative AI,B.Com,Job Seeker,0,Indore,Referral,Webinar_June,Desktop,2017,3.0,Share syllabus.,Sneha
+N00177,2026-01-14 19:38,Aman Patel,9636723236,After 7 PM,Machine Learning,MBA,Working Professional,5,Bengaluru,Referral,GoogleAds,Desktop,2020,5.0,Need fee details.,Priya
+N00178,2026-01-29 12:41,Vikas Verma,8327446623,After 7 PM,Generative AI,M.Tech,Student,4,Kolkata,Google Search,GoogleAds,Mobile,2024,10.0,Exploring options.,Priya
+N00179,2026-05-30 15:07,Pooja Saxena,9161375110,After 7 PM,Machine Learning,B.Tech,Working Professional,7,Lucknow,LinkedIn,IG_Reel,Desktop,2025,10.0,I already know Python and SQL. Looking for job transition.,Priya
+N00180,2026-04-17 16:15,Riya Gupta,9980124345,Morning,Data Science,B.Sc,Working Professional,2,Jaipur,Website,Referral,Mobile,2017,6.0,I want to switch into Data Science immediately.,Sneha
+N00181,2026-06-21 09:45,Sanya Kumar,7696464304,Afternoon,Data Science,B.Sc,Job Seeker,1,Delhi,Referral,Organic,Desktop,2023,10.0,Will check later.,Sneha
+N00182,2026-02-17 14:05,Nikita Singh,8950995735,Morning,Generative AI,M.Tech,Student,5,Hyderabad,LinkedIn,Referral,Desktop,2016,3.0,Need certification details.,Rohan
+N00183,2026-02-07 11:50,Ritika Patel,7676568317,Evening,Machine Learning,B.Sc,Working Professional,4,Indore,LinkedIn,LI_June,Desktop,2022,10.0,Will check later.,Aditi
+N00184,2026-02-15 21:59,Riya Joshi,62147124,After 7 PM,Machine Learning,BCA,Working Professional,2,Noida,Website,Referral,Desktop,2020,8.0,Need mentorship and projects. Please call after 7 PM.,Aditi
+N00185,2026-03-27 22:34,Aman Gupta,8729780606,After 7 PM,Machine Learning,B.Tech,Job Seeker,2,Kolkata,Website,GoogleAds,Mobile,2019,3.0,Share syllabus.,Kunal
+N00186,2026-02-09 16:49,Aman Kumar,7707858240,After 7 PM,Data Science,B.Com,Student,0,Delhi,Google Search,Organic,Mobile,2025,8.0,Need fee details.,Priya
+N00187,2026-01-26 08:06,Neha Sharma,8447342796,After 7 PM,Data Analytics,B.Com,Working Professional,1,Kolkata,Instagram,Organic,Desktop,2024,8.0,Need fee details.,Sneha
+N00188,2026-05-12 08:20,Kriti Singh,9663992437,Afternoon,Data Science,B.Com,Student,1,Noida,Webinar,GoogleAds,Mobile,2020,10.0,I want to switch into Data Science immediately.,Kunal
+N00189,2026-06-27 12:25,Karan Sharma,7478581602,Morning,Data Science,MCA,Student,1,Jaipur,LinkedIn,Organic,Mobile,2016,4.0,Need certification details.,Kunal
+N00190,2026-05-06 13:28,Dev Dwivedi,8100217667,Afternoon,Data Analytics,B.Tech,Working Professional,5,Indore,Google Search,Referral,Mobile,2019,10.0,No specific query.,Priya
+N00191,2026-02-19 18:46,Riya Saxena,8971337722,Weekend,Business Analytics,M.Tech,Working Professional,2,Ahmedabad,Instagram,Webinar_June,Mobile,2015,5.0,Exploring options.,Priya
+N00192,2026-01-04 10:31,Priya Kumar,9287455929,After 7 PM,Data Science,B.Tech,Student,1,Hyderabad,Webinar,IG_Reel,Desktop,2019,12.0,I already know Python and SQL. Looking for job transition.,Kunal
+N00193,2026-03-30 17:49,Priya Saxena,8221789885,Afternoon,Data Science,B.Sc,Job Seeker,10,Lucknow,Instagram,Webinar_June,Desktop,2025,4.0,Need mentorship and projects. Please call after 7 PM. 🙂,Kunal
+N00194,2026-03-04 19:38,Neha Sharma,7465718091,Morning,Data Science,B.Sc,Student,4,BENGALURU,LinkedIn,IG_Reel,Desktop,2022,5.0,,Aditi
+N00195,2026-02-21 20:51,Pooja Kumar,9372222221,Weekend,Data Analytics,BCA,Student,1,Ahmedabad,Website,Webinar_June,Desktop,2017,5.0,Attended webinar. Ready to enroll if EMI available.,Aditi
+N00196,2026-06-24 13:44,Harsh Patel,7493079493,Evening,Data Science,M.Tech,Working Professional,1,Hyderabad,Referral,Webinar_June,Mobile,2021,6.0,I already know Python and SQL. Looking for job transition.,Sneha
+N00197,2026-03-24 15:36,Meera Kumar,8197497735,Morning,Generative AI,B.Tech,Job Seeker,5,Pune,Instagram,Organic,Desktop,2017,12.0,Attended webinar. Ready to enroll if EMI available.,Aditi
+N00198,2026-06-05 18:15,Aarav Patel,7814181167,Evening,Generative AI,,Job Seeker,5,Indore,Google Search,LI_June,Desktop,2023,5.0,Please explain curriculum. 🙂,Sneha
+N00199,2026-06-04 15:21,Ritika Mehta,9584396858,Weekend,Data Analytics,B.Sc,Student,0,Ahmedabad,Google Search,Referral,Desktop,2021,4.0,Need fee details.,Aditi
+N00200,2026-02-13 20:12,Aditya Verma,9684532167,Weekend,Generative AI,B.Com,Student,10,Lucknow,Referral,IG_Reel,Mobile,2017,12.0,Attended webinar. Ready to enroll if EMI available.,Rohan
