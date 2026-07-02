@@ -1,0 +1,39 @@
+{
+  "numeric": [
+    "Experience_Years",
+    "Expected_Salary_LPA",
+    "Graduation_Year",
+    "message_length",
+    "word_count",
+    "has_career_switch_keywords",
+    "has_urgent_keywords",
+    "has_question_mark",
+    "message_is_empty",
+    "submission_hour",
+    "submission_day",
+    "submission_month",
+    "submission_dayofweek",
+    "submission_is_weekend",
+    "preferred_callback_hour",
+    "years_since_graduation",
+    "source_quality_score",
+    "career_switcher_signal",
+    "weekend_x_source_quality",
+    "is_repeat_enquirer",
+    "salary_missing",
+    "invalid_phone"
+  ],
+  "categorical": [
+    "Program_Interested",
+    "Highest_Qualification",
+    "Current_Status",
+    "City",
+    "Lead_Source",
+    "Campaign",
+    "Device",
+    "experience_bucket",
+    "preferred_callback_part_of_day"
+  ],
+  "target": "target_call_picked",
+  "best_model": "RandomForest"
+}
