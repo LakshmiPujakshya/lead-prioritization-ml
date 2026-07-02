@@ -1,0 +1,73 @@
+feature,importance
+message_length,0.1548245290793735
+word_count,0.11103813436099774
+submission_day,0.04768347255222918
+submission_hour,0.041745677173995695
+has_urgent_keywords,0.03283897677795328
+Graduation_Year,0.031202037508357337
+Expected_Salary_LPA,0.030917175357158967
+years_since_graduation,0.03006702206007737
+has_career_switch_keywords,0.029174485431965724
+submission_month,0.02698988400613649
+Experience_Years,0.02639701529916475
+submission_dayofweek,0.02606212505440553
+preferred_callback_hour,0.018139760683035213
+source_quality_score,0.012786935738625048
+weekend_x_source_quality,0.011753213502799207
+career_switcher_signal,0.009812807804997636
+Current_Status_Student,0.008916539984303315
+Program_Interested_Generative Ai,0.008456099048549819
+City_Lucknow,0.008440096848464746
+Program_Interested_Data Analytics,0.008133376969620233
+is_repeat_enquirer,0.008096761149368144
+Current_Status_Working Professional,0.00806480692729984
+Program_Interested_Machine Learning,0.008007859645876325
+Device_Mobile,0.007934554273025408
+Campaign_Li_June,0.007871322878663984
+preferred_callback_part_of_day_Weekend,0.007575964720847259
+Device_Desktop,0.007566886152106001
+Lead_Source_Google Search,0.0075230755471871755
+Highest_Qualification_Bca,0.007487257782883612
+Current_Status_Job Seeker,0.007376720948015866
+experience_bucket_Junior (1-2y),0.007376500719069668
+Campaign_Googleads,0.007188101446869027
+Highest_Qualification_M.Tech,0.007053420607553157
+experience_bucket_Mid (3-5y),0.006986246004324146
+Highest_Qualification_Mba,0.006974152078479272
+Highest_Qualification_B.Sc,0.006865587856480086
+preferred_callback_part_of_day_Evening,0.006820331037585645
+Highest_Qualification_B.Tech,0.0067902931147022635
+Campaign_Referral,0.006755852841564744
+Lead_Source_Webinar,0.006732873867226971
+Campaign_Organic,0.006732587633530922
+Campaign_Webinar_June,0.006731908292222836
+Program_Interested_Data Science,0.0066952069282385914
+Campaign_Ig_Reel,0.006626474896632149
+Program_Interested_Business Analytics,0.006565476147003471
+Lead_Source_Referral,0.006502065900546544
+City_Hyderabad,0.0064046373089045915
+preferred_callback_part_of_day_Afternoon,0.006361965978065788
+Highest_Qualification_Mca,0.0063544350178829905
+salary_missing,0.006350442252127715
+City_Ahmedabad,0.006274397044173518
+preferred_callback_part_of_day_Morning,0.006248472907265027
+experience_bucket_Fresher,0.006179639078543464
+Lead_Source_Linkedin,0.006163921052803552
+Lead_Source_Website,0.006159517394368063
+Highest_Qualification_Working Professional,0.0059055475841930825
+preferred_callback_part_of_day_Night,0.005874383286303674
+Highest_Qualification_B.Com,0.005791059777412261
+City_Pune,0.005762018696769565
+experience_bucket_Senior (6-10y),0.005700569027894355
+City_Jaipur,0.005588356563529097
+submission_is_weekend,0.005520826423980644
+City_Noida,0.005511807462270287
+City_Delhi,0.005436711056737426
+Lead_Source_Instagram,0.005387066104092933
+City_Bengaluru,0.005314473145716463
+City_Kolkata,0.005065733117278371
+City_Indore,0.0048194930399421305
+invalid_phone,0.003606229584297477
+message_is_empty,0.0030375970091159657
+Highest_Qualification_Unknown,0.0028990454468176986
+has_question_mark,0.0
